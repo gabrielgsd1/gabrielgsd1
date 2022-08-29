@@ -1,5 +1,13 @@
-### Hi there 👋
+### Olá, bem vindo ao meu Github! 👋
 
+Me chamo Gabriel, tenho 19 anos e sou residente de São Paulo - SP. Sou estudante de Análise e Desenvolvimento de Sistemas pela FMU, e pretendo me tornar um Desenvolvedor Web. Sempre fui apaixonado pelo mundo da tecnologia e comecei a estudar tópicos desta área há 2 anos, e depois de ver diversos conceitos de front-end, back-end e banco de dados, agora posso dizer que me sinto preparado para uma oportunidade profissional na área.
+
+
+Aqui você pode ver meus projetos e minha evolução!
+
+#### 🎵 Spotify Project
+
+Este é meu projeto mais recente, que ainda está em desenvolvimento. Aqui, utilizo a API do Spotify para obter dados de álbuns, músicas e artistas. 
 <!--
 **gabrielgsd1/gabrielgsd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
